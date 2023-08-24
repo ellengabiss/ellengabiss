@@ -3,7 +3,7 @@
 Oi, eu sou a Ellen Gabriela, sou uma dev apaixonada por tecnologia!
 <br>
 
-Este é o espaço onde passo a maior parte do meu tempo onde, imaginação e criatividade se tornam código.
+Este é o espaço onde passo a maior parte do meu tempo, onde imaginação e criatividade se tornam código.
 
 <br>
 <br>
